@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michal Petrán</h1>
+<h1 align="center">Hi 👋, My name is Michal Petrán</h1>
 <h3 align="center">Aspiring Software Developer | Passionate About Learning and Growing in Tech</h3>
 
 - 🌱 I’m currently learning **Java, Python, Web development**
