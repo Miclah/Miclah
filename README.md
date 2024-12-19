@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, My name is Michal Petrán</h1>
-<h3 align="center">Aspiring Software Developer | Passionate About Learning and Growing in Tech</h3>
 
 - 🌱 I’m currently learning **Java, Python, Web development**
-
-- ⚡ Fun fact **My memory is like a leaky faucet: dripping with useless information but completely dry when it comes to where I left my keys.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
