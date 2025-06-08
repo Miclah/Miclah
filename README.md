@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Michal Petrán</h1>
 
-- 🌱 I’m currently learning **Java, Python, Web development**
+- 🌱 I’m currently learning **C# & .NET, Kotlin, C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
