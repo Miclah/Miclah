@@ -1,6 +1,6 @@
 # Michal Petrán
 
-**Software Developer | C#, .NET, Java, Python, Kotlin, SQL**
+**Software Developer | C#, .NET, Java, Python, SQL**
 
 **Bc. in Informatics, FRI UNIZA · starting Master's (Ing.) September 2026**
 
